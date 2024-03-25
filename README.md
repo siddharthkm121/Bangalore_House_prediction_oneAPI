@@ -2,7 +2,7 @@
  <a href="https://github.com/aaronDev28/Bangalore_House_Price_Prediction_oneAPI" >   
   <img src="https://github.com/joelbkoshy/Assets/blob/main/pngwing.com.png" width="80" height="90">
   </div>
-  <h1 align="center">BANGALORE HOUSE PRICE PREDICTION </h1>
+  <h1 align="center">Bengaluru Property Value Forecast </h1>
 
   <p align="center">
       Welcome to our project!
